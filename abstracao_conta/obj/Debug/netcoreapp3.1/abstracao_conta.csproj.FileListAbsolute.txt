@@ -1,0 +1,13 @@
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/bin/Debug/netcoreapp3.1/abstracao_conta
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/bin/Debug/netcoreapp3.1/abstracao_conta.deps.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/bin/Debug/netcoreapp3.1/abstracao_conta.runtimeconfig.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/bin/Debug/netcoreapp3.1/abstracao_conta.runtimeconfig.dev.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/bin/Debug/netcoreapp3.1/abstracao_conta.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/bin/Debug/netcoreapp3.1/abstracao_conta.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/obj/Debug/netcoreapp3.1/abstracao_conta.csprojAssemblyReference.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/obj/Debug/netcoreapp3.1/abstracao_conta.AssemblyInfoInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/obj/Debug/netcoreapp3.1/abstracao_conta.AssemblyInfo.cs
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/obj/Debug/netcoreapp3.1/abstracao_conta.csproj.CoreCompileInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/obj/Debug/netcoreapp3.1/abstracao_conta.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/obj/Debug/netcoreapp3.1/abstracao_conta.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_conta/obj/Debug/netcoreapp3.1/abstracao_conta.genruntimeconfig.cache
