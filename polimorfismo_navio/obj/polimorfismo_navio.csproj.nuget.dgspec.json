@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/polimorfismo_navio.csproj": {}
+  },
+  "projects": {
+    "/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/polimorfismo_navio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/polimorfismo_navio.csproj",
+        "projectName": "polimorfismo_navio",
+        "projectPath": "/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/polimorfismo_navio.csproj",
+        "packagesPath": "/home/deive/.nuget/packages/",
+        "outputPath": "/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/deive/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

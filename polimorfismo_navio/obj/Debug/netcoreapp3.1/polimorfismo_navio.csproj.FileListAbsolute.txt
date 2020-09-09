@@ -1,0 +1,13 @@
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/bin/Debug/netcoreapp3.1/polimorfismo_navio
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/bin/Debug/netcoreapp3.1/polimorfismo_navio.deps.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/bin/Debug/netcoreapp3.1/polimorfismo_navio.runtimeconfig.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/bin/Debug/netcoreapp3.1/polimorfismo_navio.runtimeconfig.dev.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/bin/Debug/netcoreapp3.1/polimorfismo_navio.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/bin/Debug/netcoreapp3.1/polimorfismo_navio.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/Debug/netcoreapp3.1/polimorfismo_navio.csprojAssemblyReference.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/Debug/netcoreapp3.1/polimorfismo_navio.AssemblyInfoInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/Debug/netcoreapp3.1/polimorfismo_navio.AssemblyInfo.cs
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/Debug/netcoreapp3.1/polimorfismo_navio.csproj.CoreCompileInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/Debug/netcoreapp3.1/polimorfismo_navio.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/Debug/netcoreapp3.1/polimorfismo_navio.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/polimorfismo_navio/obj/Debug/netcoreapp3.1/polimorfismo_navio.genruntimeconfig.cache
