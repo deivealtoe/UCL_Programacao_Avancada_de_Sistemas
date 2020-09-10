@@ -1,0 +1,13 @@
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/bin/Debug/netcoreapp3.1/abstracao_animal
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/bin/Debug/netcoreapp3.1/abstracao_animal.deps.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/bin/Debug/netcoreapp3.1/abstracao_animal.runtimeconfig.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/bin/Debug/netcoreapp3.1/abstracao_animal.runtimeconfig.dev.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/bin/Debug/netcoreapp3.1/abstracao_animal.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/bin/Debug/netcoreapp3.1/abstracao_animal.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/obj/Debug/netcoreapp3.1/abstracao_animal.csprojAssemblyReference.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/obj/Debug/netcoreapp3.1/abstracao_animal.AssemblyInfoInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/obj/Debug/netcoreapp3.1/abstracao_animal.AssemblyInfo.cs
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/obj/Debug/netcoreapp3.1/abstracao_animal.csproj.CoreCompileInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/obj/Debug/netcoreapp3.1/abstracao_animal.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/obj/Debug/netcoreapp3.1/abstracao_animal.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_animal/obj/Debug/netcoreapp3.1/abstracao_animal.genruntimeconfig.cache

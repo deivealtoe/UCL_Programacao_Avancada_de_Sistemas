@@ -1,0 +1,5 @@
+class Curio : Passaro {
+
+    
+
+}
