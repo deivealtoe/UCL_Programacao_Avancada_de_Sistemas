@@ -1,0 +1,13 @@
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/obj/Debug/netcoreapp3.1/abstracao_funcionario.csprojAssemblyReference.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/obj/Debug/netcoreapp3.1/abstracao_funcionario.AssemblyInfoInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/obj/Debug/netcoreapp3.1/abstracao_funcionario.AssemblyInfo.cs
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/obj/Debug/netcoreapp3.1/abstracao_funcionario.csproj.CoreCompileInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/bin/Debug/netcoreapp3.1/abstracao_funcionario
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/bin/Debug/netcoreapp3.1/abstracao_funcionario.deps.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/bin/Debug/netcoreapp3.1/abstracao_funcionario.runtimeconfig.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/bin/Debug/netcoreapp3.1/abstracao_funcionario.runtimeconfig.dev.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/bin/Debug/netcoreapp3.1/abstracao_funcionario.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/bin/Debug/netcoreapp3.1/abstracao_funcionario.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/obj/Debug/netcoreapp3.1/abstracao_funcionario.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/obj/Debug/netcoreapp3.1/abstracao_funcionario.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_funcionario/obj/Debug/netcoreapp3.1/abstracao_funcionario.genruntimeconfig.cache

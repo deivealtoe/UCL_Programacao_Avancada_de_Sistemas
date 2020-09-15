@@ -1,0 +1,13 @@
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/bin/Debug/netcoreapp3.1/abstracao_cartaoweb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/bin/Debug/netcoreapp3.1/abstracao_cartaoweb.deps.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/bin/Debug/netcoreapp3.1/abstracao_cartaoweb.runtimeconfig.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/bin/Debug/netcoreapp3.1/abstracao_cartaoweb.runtimeconfig.dev.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/bin/Debug/netcoreapp3.1/abstracao_cartaoweb.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/bin/Debug/netcoreapp3.1/abstracao_cartaoweb.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/obj/Debug/netcoreapp3.1/abstracao_cartaoweb.csprojAssemblyReference.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/obj/Debug/netcoreapp3.1/abstracao_cartaoweb.AssemblyInfoInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/obj/Debug/netcoreapp3.1/abstracao_cartaoweb.AssemblyInfo.cs
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/obj/Debug/netcoreapp3.1/abstracao_cartaoweb.csproj.CoreCompileInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/obj/Debug/netcoreapp3.1/abstracao_cartaoweb.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/obj/Debug/netcoreapp3.1/abstracao_cartaoweb.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/abstracao_cartaoweb/obj/Debug/netcoreapp3.1/abstracao_cartaoweb.genruntimeconfig.cache
