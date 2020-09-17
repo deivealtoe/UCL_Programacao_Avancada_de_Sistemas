@@ -3,13 +3,13 @@
 class MainClass {
   public static void Main (string[] args) {
 
-    NavioMercante cargueiro = new NavioMercante("Noviozin", 50);
-    NavioMercante cargueiru = new NavioMercante("Noviozão", 50, 1000);
-    NavioMercante cargueiri = new NavioMercante("Noviozão", 50, 1000, 500);
+    NavioMercante cargueiro_1 = new NavioMercante("Novio 1", 50);
+    NavioMercante cargueiro_2 = new NavioMercante("Novio 2", 50, 1000);
+    NavioMercante cargueiro_3 = new NavioMercante("Novio 3", 50, 1000, 500);
 
-    cargueiro.Carregamento();
-    cargueiru.Carregamento();
-    cargueiri.Carregamento();
+    cargueiro_1.Carregamento();
+    cargueiro_2.Carregamento();
+    cargueiro_3.Carregamento();
 
     NavioDeGuerra ng1 = new NavioDeGuerra("Ng1", 100, 20);
     NavioDeGuerra ng2 = new NavioDeGuerra("Ng2", 100, 20);

@@ -35,7 +35,7 @@ class NavioDeGuerra : Navio {
     }
   }
 
-  public float GetAtaque () {
+  public float GetValorAtaque () {
     float ataqueAux = this.ataque;
 
     switch (this.estado) {
@@ -55,12 +55,12 @@ class NavioDeGuerra : Navio {
 
   public void Atacar (NavioDeGuerra n) {
     if (this.estado != estadoEnum.Inoperante) {
-      n.ReceberDano(this.GetAtaque());
+      n.ReceberDano(this.GetValorAtaque());
     }
   }
 
   public string EstadoDoNavio () {
-    return "Nome: " + Nome + " / Blindagem: " + this.blindagem + " / Ataque: " + this.GetAtaque() + " / Estado: " + this.estado;
+    return "Nome: " + Nome + " / Blindagem: " + this.blindagem + " / Ataque: " + this.GetValorAtaque() + " / Estado: " + this.estado;
   }
 
   public static string operator > (NavioDeGuerra n1, NavioDeGuerra n2) {
@@ -72,7 +72,7 @@ class NavioDeGuerra : Navio {
   public static string operator < (NavioDeGuerra n1, NavioDeGuerra n2) {
     n2.Atacar(n1);
 
-    return "O navio " + n2.Nome + " atacou o navio " + n1.Nome;
+    return "O navio " + n1.Nome + " recebeu um ataque do navio " + n2.Nome;
   }
 
 }
