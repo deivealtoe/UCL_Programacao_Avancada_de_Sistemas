@@ -1,0 +1,13 @@
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/obj/Debug/netcoreapp3.1/interface_widgets.csprojAssemblyReference.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/obj/Debug/netcoreapp3.1/interface_widgets.AssemblyInfoInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/obj/Debug/netcoreapp3.1/interface_widgets.AssemblyInfo.cs
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/obj/Debug/netcoreapp3.1/interface_widgets.csproj.CoreCompileInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/bin/Debug/netcoreapp3.1/interface_widgets
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/bin/Debug/netcoreapp3.1/interface_widgets.deps.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/bin/Debug/netcoreapp3.1/interface_widgets.runtimeconfig.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/bin/Debug/netcoreapp3.1/interface_widgets.runtimeconfig.dev.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/bin/Debug/netcoreapp3.1/interface_widgets.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/bin/Debug/netcoreapp3.1/interface_widgets.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/obj/Debug/netcoreapp3.1/interface_widgets.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/obj/Debug/netcoreapp3.1/interface_widgets.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_widgets/obj/Debug/netcoreapp3.1/interface_widgets.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+interface Tributos {
+
+    string Tributar();
+
+}

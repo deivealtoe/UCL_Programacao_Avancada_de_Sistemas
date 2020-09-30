@@ -1,0 +1,13 @@
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/bin/Debug/netcoreapp3.1/interface_
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/bin/Debug/netcoreapp3.1/interface_.deps.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/bin/Debug/netcoreapp3.1/interface_.runtimeconfig.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/bin/Debug/netcoreapp3.1/interface_.runtimeconfig.dev.json
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/bin/Debug/netcoreapp3.1/interface_.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/bin/Debug/netcoreapp3.1/interface_.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/obj/Debug/netcoreapp3.1/interface_.csprojAssemblyReference.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/obj/Debug/netcoreapp3.1/interface_.AssemblyInfoInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/obj/Debug/netcoreapp3.1/interface_.AssemblyInfo.cs
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/obj/Debug/netcoreapp3.1/interface_.csproj.CoreCompileInputs.cache
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/obj/Debug/netcoreapp3.1/interface_.dll
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/obj/Debug/netcoreapp3.1/interface_.pdb
+/home/deive/Codes/Repositories/UCL_Programacao_Avancada_de_Sistemas/interface_contas/obj/Debug/netcoreapp3.1/interface_.genruntimeconfig.cache
