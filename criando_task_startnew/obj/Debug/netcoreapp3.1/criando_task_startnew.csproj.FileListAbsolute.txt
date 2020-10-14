@@ -1,0 +1,13 @@
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/bin/Debug/netcoreapp3.1/criando_task_startnew
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/bin/Debug/netcoreapp3.1/criando_task_startnew.deps.json
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/bin/Debug/netcoreapp3.1/criando_task_startnew.runtimeconfig.json
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/bin/Debug/netcoreapp3.1/criando_task_startnew.runtimeconfig.dev.json
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/bin/Debug/netcoreapp3.1/criando_task_startnew.dll
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/bin/Debug/netcoreapp3.1/criando_task_startnew.pdb
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/obj/Debug/netcoreapp3.1/criando_task_startnew.csprojAssemblyReference.cache
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/obj/Debug/netcoreapp3.1/criando_task_startnew.AssemblyInfoInputs.cache
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/obj/Debug/netcoreapp3.1/criando_task_startnew.AssemblyInfo.cs
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/obj/Debug/netcoreapp3.1/criando_task_startnew.csproj.CoreCompileInputs.cache
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/obj/Debug/netcoreapp3.1/criando_task_startnew.dll
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/obj/Debug/netcoreapp3.1/criando_task_startnew.pdb
+/home/deive/Codes/UCL_Programacao_Avancada_de_Sistemas/criando_task_startnew/obj/Debug/netcoreapp3.1/criando_task_startnew.genruntimeconfig.cache
